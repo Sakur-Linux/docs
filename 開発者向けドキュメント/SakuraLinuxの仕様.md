@@ -1,0 +1,5 @@
+# SakuraLinux
+Based by Basix6.0(Ubuntu22.04),ArchEdition:ArchLinux
+PackageManager Apt,SkPkg(作成中？)
+Desktop Xfce4(XfceEdition)、LXDE(LXDE Edition)
+DisplayManager LightDM
